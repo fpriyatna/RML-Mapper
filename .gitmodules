@@ -9,7 +9,7 @@
 	url = https://github.com/RMLio/RML-Condition.git
 [submodule "RML-DataRetrieval"]
 	path = RML-DataRetrieval
-	url = https://github.com/RMLio/RML-DataRetrieval.git
+	url = https://github.com/fpriyatna/RML-DataRetrieval
 [submodule "RML-MapDocHandler"]
 	path = RML-MapDocHandler
 	url = https://github.com/RMLio/RML-MapDocHandler.git
